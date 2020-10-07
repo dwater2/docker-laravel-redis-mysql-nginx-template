@@ -7,9 +7,8 @@
 ### Imagem docker do Golang
 - **[dwater2/codeeducation](https://hub.docker.com/repository/docker/dwater2/codeeducation)**
 
-# How to build it
+# Para executar
 
 ```bash
-# Para executar
 docker run -d --name golang dwater2/codeeducation
 ```
